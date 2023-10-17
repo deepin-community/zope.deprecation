@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+
+import zope.deprecation
+print(zope.deprecation)
